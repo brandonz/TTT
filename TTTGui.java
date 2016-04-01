@@ -5,7 +5,6 @@ import java.awt.event.*;
 
 /**
  * Represents a tic-tac-toe game board
- * @author Joe Zachary
  */
 public class TTTGui extends JFrame {
 	

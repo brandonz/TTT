@@ -5,7 +5,6 @@ import javax.swing.*;
 /**
  * Coordinates between a TTTGui (the user interface component)
  * and a TTTBoard (which represents the state of the game).
- * @author Joe Zachary
  */
 public class TTTController implements ActionListener {
 
